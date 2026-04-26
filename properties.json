@@ -1,0 +1,67 @@
+{
+  "repo_name": "legasyprojects_wp8",
+  "creator": "dvltvv",
+  "last_updated": "27.04.2026",
+  "apps": [
+    {
+      "id": "deepseek.client",
+      "base_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/deepseek.client/",
+      "title": "Deepseek",
+      "screenshots": ["1.png", "2.png", "3.png", "4.png"],
+      "author": "nestor",
+      "description": "Клиент чат нейросети Deepseek",
+      "icon_url": "logo.png",
+      "size": "1,6 MB",
+      "category": "social",
+      "version": "1.0.0.1"
+    },
+    {
+      "id": "electrichki.tutu",
+      "base_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/electrichki.tutu/",
+      "title": "электрички ТуТу",
+      "screenshots": [],
+      "author": "LegacyProjects",
+      "description": "Работающий клиент приложения Электрички ТуТу",
+      "icon_url": "logo.png",
+      "size": "0,4 MB",
+      "category": "livestyle",
+      "version": "1.0.0.3"
+    },
+    {
+      "id": "ya.disk",
+      "base_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/ya.disk/",
+      "title": "Яндекс Диск",
+      "screenshots": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+      "author": "LegacyProjects",
+      "description": "Приложение для просмотра облачного хранилища Яндекс",
+      "icon_url": "logo.png",
+      "size": "0,1 MB",
+      "category": "tools",
+      "version": "1.0"
+    },
+    {
+      "id": "ya.music",
+      "base_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/ya.music/",
+      "title": "Яндекс Музыка",
+      "screenshots": ["1.jpg", "2.jpg", "3.jpg"],
+      "author": "LegacyProjects",
+      "description": "Приложение для прослушивания вашей музыки из Яндекс",
+      "icon_url": "logo.png",
+      "size": "0,8 MB",
+      "category": "music+video",
+      "version": "1.0"
+    },
+    {
+      "id": "youtube.wp8",
+      "base_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/youtube.wp8/",
+      "title": "YouTube",
+      "screenshots": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg"],
+      "author": "LegacyProjects",
+      "description": "Клиент YTApiLegacy",
+      "icon_url": "logo.png",
+      "size": "0,4 MB",
+      "category": "entertaintment",
+      "version": "1.0.0.4"
+    }
+  ]
+}
