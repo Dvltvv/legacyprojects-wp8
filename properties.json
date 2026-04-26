@@ -5,7 +5,7 @@
   "apps": [
     {
       "id": "deepseek.client",
-      "base_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/deepseek.client/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/deepseek.client/",
       "title": "Deepseek",
       "screenshots": ["1.png", "2.png", "3.png", "4.png"],
       "author": "nestor",
@@ -14,11 +14,11 @@
       "size": "1,6 MB",
       "category": "social",
       "version": "1.0.0.1",
-      "download_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/deepseek.client/DeepSeek_1.0.0.1_ARM.appx"
+      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/deepseek.client/DeepSeek_1.0.0.1_ARM.appx"
     },
     {
       "id": "electrichki.tutu",
-      "base_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/electrichki.tutu/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/electrichki.tutu/",
       "title": "электрички ТуТу",
       "screenshots": [],
       "author": "LegacyProjects",
@@ -27,11 +27,11 @@
       "size": "0,4 MB",
       "category": "livestyle",
       "version": "1.0.0.3",
-      "download_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/electrichki.tutu/TuTu.appx"
+      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/electrichki.tutu/TuTu.appx"
     },
     {
       "id": "ya.disk",
-      "base_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/ya.disk/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/ya.disk/",
       "title": "Яндекс Диск",
       "screenshots": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
       "author": "LegacyProjects",
@@ -40,11 +40,11 @@
       "size": "0,1 MB",
       "category": "tools",
       "version": "1.0",
-      "download_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/ya.disk/YandexDisk.WindowsPhone_1.0.0.0_ARM.appx"
+      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/ya.disk/YandexDisk.WindowsPhone_1.0.0.0_ARM.appx"
     },
     {
       "id": "ya.music",
-      "base_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/ya.music/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/ya.music/",
       "title": "Яндекс Музыка",
       "screenshots": ["1.jpg", "2.jpg", "3.jpg"],
       "author": "LegacyProjects",
@@ -53,11 +53,11 @@
       "size": "0,8 MB",
       "category": "music+video",
       "version": "1.0",
-      "download_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/ya.music/YandexMusic_0.0.1.0_AnyCPU.appx"
+      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/ya.music/YandexMusic_0.0.1.0_AnyCPU.appx"
     },
     {
       "id": "youtube.wp8",
-      "base_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/youtube.wp8/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/youtube.wp8/",
       "title": "YouTube",
       "screenshots": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg"],
       "author": "LegacyProjects",
@@ -66,7 +66,7 @@
       "size": "0,4 MB",
       "category": "entertaintment",
       "version": "1.0.0.4",
-      "download_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/youtube.wp8/YouTube_1.0.0.4_AnyCPU.appx"
+      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/youtube.wp8/YouTube_1.0.0.4_AnyCPU.appx"
     }
   ]
 }
