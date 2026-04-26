@@ -13,7 +13,8 @@
       "icon_url": "logo.png",
       "size": "1,6 MB",
       "category": "social",
-      "version": "1.0.0.1"
+      "version": "1.0.0.1",
+      "download_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/deepseek.client/DeepSeek_1.0.0.1_ARM.appx"
     },
     {
       "id": "electrichki.tutu",
@@ -25,7 +26,8 @@
       "icon_url": "logo.png",
       "size": "0,4 MB",
       "category": "livestyle",
-      "version": "1.0.0.3"
+      "version": "1.0.0.3",
+      "download_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/electrichki.tutu/TuTu.appx"
     },
     {
       "id": "ya.disk",
@@ -37,7 +39,8 @@
       "icon_url": "logo.png",
       "size": "0,1 MB",
       "category": "tools",
-      "version": "1.0"
+      "version": "1.0",
+      "download_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/ya.disk/YandexDisk.WindowsPhone_1.0.0.0_ARM.appx"
     },
     {
       "id": "ya.music",
@@ -49,7 +52,8 @@
       "icon_url": "logo.png",
       "size": "0,8 MB",
       "category": "music+video",
-      "version": "1.0"
+      "version": "1.0",
+      "download_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/ya.music/YandexMusic_0.0.1.0_AnyCPU.appx"
     },
     {
       "id": "youtube.wp8",
@@ -61,7 +65,8 @@
       "icon_url": "logo.png",
       "size": "0,4 MB",
       "category": "entertaintment",
-      "version": "1.0.0.4"
+      "version": "1.0.0.4",
+      "download_url": "https://dvltvv.github.io/legasyprojects-wp8/apps/youtube.wp8/YouTube_1.0.0.4_AnyCPU.appx"
     }
   ]
 }
