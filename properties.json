@@ -6,7 +6,7 @@
   "apps": [
     {
       "id": "deepseek.client",
-      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/deepseek.client/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-apps/apps/deepseek.client/",
       "os": "WP8.1",
       "title": "Deepseek",
       "screenshots": [],
@@ -16,11 +16,11 @@
       "size": "1,6 MB",
       "category": "social",
       "version": "1.0.0.1",
-      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/deepseek.client/DeepSeek_1.0.0.1_ARM.appx"
+      "download_url": "https://dvltvv.github.io/legacyprojects-apps/apps/deepseek.client/DeepSeek_1.0.0.1_ARM.appx"
     },
     {
       "id": "electrichki.tutu",
-      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/electrichki.tutu/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-apps/apps/electrichki.tutu/",
       "os": "WP8.1",
       "title": "электрички ТуТу",
       "screenshots": [],
@@ -30,11 +30,11 @@
       "size": "0,4 MB",
       "category": "livestyle",
       "version": "1.0.0.3",
-      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/electrichki.tutu/TuTu.appx"
+      "download_url": "https://dvltvv.github.io/legacyprojects-apps/apps/electrichki.tutu/TuTu.appx"
     },
     {
       "id": "ya.disk",
-      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/ya.disk/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-apps/apps/ya.disk/",
       "os": "WP8.1",
       "title": "Яндекс Диск",
       "screenshots": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
@@ -44,11 +44,11 @@
       "size": "0,1 MB",
       "category": "tools",
       "version": "1.0.0.0",
-      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/ya.disk/YandexDisk_1.0.0.0_ARM.appx"
+      "download_url": "https://dvltvv.github.io/legacyprojects-apps/apps/ya.disk/YandexDisk_1.0.0.0_ARM.appx"
     },
     {
       "id": "ya.music",
-      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/ya.music/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-apps/apps/ya.music/",
       "os": "WP8.1",
       "title": "Яндекс Музыка",
       "screenshots": ["1.jpg", "2.jpg", "3.jpg"],
@@ -58,11 +58,11 @@
       "size": "0,8 MB",
       "category": "music+video",
       "version": "0.0.1.0",
-      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/ya.music/YandexMusic_0.0.1.0_AnyCPU.appx"
+      "download_url": "https://dvltvv.github.io/legacyprojects-apps/apps/ya.music/YandexMusic_0.0.1.0_AnyCPU.appx"
     },
     {
       "id": "youtube.wp8",
-      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/youtube.wp8/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-apps/apps/youtube.wp8/",
       "os": "WP8.1",
       "title": "YouTube",
       "screenshots": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg"],
@@ -72,11 +72,11 @@
       "size": "0,4 MB",
       "category": "entertaintment",
       "version": "1.0.0.4",
-      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/youtube.wp8/YouTube_1.0.0.4_AnyCPU.appx"
+      "download_url": "https://dvltvv.github.io/legacyprojects-apps/apps/youtube.wp8/YouTube_1.0.0.4_AnyCPU.appx"
     },
     {
       "id": "app.animejoy",
-      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/app.animejoy/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-apps/apps/app.animejoy/",
       "os": "W10M",
       "title": "AnimeJoy",
       "screenshots": [],
@@ -86,11 +86,11 @@
       "size": "12,6 MB",
       "category": "entertaintment",
       "version": "1.0.0.4",
-      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/app.animejoy/AnimeJoyApp_0.2.0.0_ARM.appx"
+      "download_url": "https://dvltvv.github.io/legacyprojects-apps/apps/app.animejoy/AnimeJoyApp_0.2.0.0_ARM.appx"
     },
     {
       "id": "app.animix",
-      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/app.animix/",
+      "base_url": "https://dvltvv.github.io/legacyprojects-apps/apps/app.animix/",
       "os": "W10M",
       "title": "Animix",
       "screenshots": [],
@@ -100,7 +100,7 @@
       "size": "5,2 MB",
       "category": "entertaintment",
       "version": "1.0.1.0",
-      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/app.animix/Animix_1.0.1.0_x86_arm.appxbundle"
+      "download_url": "https://dvltvv.github.io/legacyprojects-apps/apps/app.animix/Animix_1.0.1.0_x86_arm.appxbundle"
     }
   ]
 }
