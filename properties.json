@@ -1,11 +1,13 @@
 {
-  "repo_name": "legacyprojects (wp8)",
+  "repo_name": "legacyprojects",
   "creator": "dvltvv",
-  "last_updated": "27.04.2026",
+  "last_updated": "13.05.2026",
+  "supported_os": ["WP8.1", "W10M"]
   "apps": [
     {
       "id": "deepseek.client",
       "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/deepseek.client/",
+      "os": "WP8.1",
       "title": "Deepseek",
       "screenshots": [],
       "author": "nestor",
@@ -19,6 +21,7 @@
     {
       "id": "electrichki.tutu",
       "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/electrichki.tutu/",
+      "os": "WP8.1",
       "title": "электрички ТуТу",
       "screenshots": [],
       "author": "LegacyProjects",
@@ -32,6 +35,7 @@
     {
       "id": "ya.disk",
       "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/ya.disk/",
+      "os": "WP8.1",
       "title": "Яндекс Диск",
       "screenshots": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
       "author": "mssans, zemonkamin",
@@ -45,6 +49,7 @@
     {
       "id": "ya.music",
       "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/ya.music/",
+      "os": "WP8.1",
       "title": "Яндекс Музыка",
       "screenshots": ["1.jpg", "2.jpg", "3.jpg"],
       "author": "mssans, zemonkamin, Игорь Семенцов, mazahaka1488",
@@ -58,6 +63,7 @@
     {
       "id": "youtube.wp8",
       "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/youtube.wp8/",
+      "os": "WP8.1",
       "title": "YouTube",
       "screenshots": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg"],
       "author": "LegacyProjects",
@@ -67,6 +73,34 @@
       "category": "entertaintment",
       "version": "1.0.0.4",
       "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/youtube.wp8/YouTube_1.0.0.4_AnyCPU.appx"
+    },
+    {
+      "id": "app.animejoy",
+      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/app.animejoy/",
+      "os": "W10M",
+      "title": "AnimeJoy",
+      "screenshots": [],
+      "author": "LegacyProjects",
+      "description": "Клиент AnimeJoy",
+      "icon_url": "logo.png",
+      "size": "12,6 MB",
+      "category": "entertaintment",
+      "version": "1.0.0.4",
+      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/app.animejoy/AnimeJoyApp_0.2.0.0_ARM.appx"
+    },
+    {
+      "id": "app.animix",
+      "base_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/app.animix/",
+      "os": "W10M",
+      "title": "Animix",
+      "screenshots": [],
+      "author": "LegacyProjects",
+      "description": "Клиент Animix",
+      "icon_url": "logo.png",
+      "size": "5,2 MB",
+      "category": "entertaintment",
+      "version": "1.0.1.0",
+      "download_url": "https://dvltvv.github.io/legacyprojects-wp8/apps/app.animix/Animix_1.0.1.0_x86_arm.appxbundle"
     }
   ]
 }
